@@ -1,0 +1,3 @@
+admin, adm1n
+amged, 123
+user, us3r
